@@ -75,7 +75,7 @@ The code is designed to run in a browser using Pyodide, ensuring no local file I
 - Introduce obstacles or new particle types for more complex dynamics.
 - Enhance shooting with cooldown variations or different effects (e.g., slowing targets).
 - Export simulation data (e.g., S/V history) as text for analysis.
-
+- emblems and tiitles (whenever a tank reaches the goal it is called a reacher\whenever it dispasses an x point in depth it is called and piercer) 
 ## Contributing
 Feel free to fork the repository, submit issues, or create pull requests. Please ensure any changes maintain Pyodide compatibility and include clear documentation.
 
